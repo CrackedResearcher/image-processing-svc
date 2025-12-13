@@ -1,0 +1,3 @@
+class InvalidAssetError(Exception):
+    pass
+    
